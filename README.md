@@ -18,7 +18,7 @@ Built from scratch with HTML, CSS, and vanilla JS — no frameworks, no dependen
 ## Projects Showcased
 
 - **Ledora** — Independent digital publication → [ledoraog.lovable.app](https://ledoraog.lovable.app/)
-- **Repkit** — Workout tracker → [my-weekly-win-66.lovable.app](https://my-weekly-win-66.lovable.app/)
+- **Repkit** — Workout tracker → [repkit.lovable.app](https://repkit.lovable.app/)
 
 ## Deploy
 
